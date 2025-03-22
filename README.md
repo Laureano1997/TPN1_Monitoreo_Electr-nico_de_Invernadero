@@ -5,9 +5,9 @@ Titulo: Monitoreo Electrónico de Invernadero
 
 Alumno: Wawryczuk Laureano Agustin (102400)
 
-Objetivo: Realizar el monitoreo de la , para activar el sistema de riego, las lámparas acorde al horario correspondiente y emita alertas ante tanque vacío o ausencia de nutrientes. Via Ethernet enviará los datos de los sensores cada un tiempo configurable para monitoreo y estadísticas.
+Objetivo: Realizar un sistema automatico para mantener un entorno controlado para plantas y monitorear su desarrollo.
 
-Desarrollo
+Desarrollo:
 El sistema de monitoreo del invernadero deberá medir temperatura y humedad ambiente, nivel de iluminación y humedad del suelo para mantener estos parametros dentro de los requeridos por una planta específica. 
 Apunta a plantas que requieren un cuidado especial y deberá ser autónomo, solo precisará la intervención del usuario ante agotamiento del agua dentro del reservorio. Ante esta eventualidad enviará un alerta via Ethernet y encenderá un LED indicando la ausencia de agua. Si el alerta es ignorado luego de una hora activará un Buzzer.
 El sistema deberá activar un sistema de riego y un sistema de iluminación en caso de ser necesario, comparando contra los datos cargados para la planta específica en la base de datos.
