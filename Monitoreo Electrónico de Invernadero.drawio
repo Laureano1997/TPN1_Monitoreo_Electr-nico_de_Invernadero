@@ -4,19 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XE9et_yRO4S6TkY2Q2Em-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XE9et_yRO4S6TkY2Q2Em-1" target="XE9et_yRO4S6TkY2Q2Em-10">
+        <mxCell id="XE9et_yRO4S6TkY2Q2Em-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XE9et_yRO4S6TkY2Q2Em-1" target="XE9et_yRO4S6TkY2Q2Em-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XE9et_yRO4S6TkY2Q2Em-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XE9et_yRO4S6TkY2Q2Em-1" target="XE9et_yRO4S6TkY2Q2Em-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="510" y="290" />
-              <mxPoint x="565" y="290" />
-              <mxPoint x="565" y="220" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XE9et_yRO4S6TkY2Q2Em-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XE9et_yRO4S6TkY2Q2Em-1" target="XE9et_yRO4S6TkY2Q2Em-12">
+        <mxCell id="XE9et_yRO4S6TkY2Q2Em-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XE9et_yRO4S6TkY2Q2Em-1" target="XE9et_yRO4S6TkY2Q2Em-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="550" y="275" />
@@ -24,16 +15,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XE9et_yRO4S6TkY2Q2Em-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XE9et_yRO4S6TkY2Q2Em-1" target="XE9et_yRO4S6TkY2Q2Em-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="510" y="310" />
-              <mxPoint x="565" y="310" />
-              <mxPoint x="565" y="380" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XE9et_yRO4S6TkY2Q2Em-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XE9et_yRO4S6TkY2Q2Em-1" target="XE9et_yRO4S6TkY2Q2Em-14">
+        <mxCell id="XE9et_yRO4S6TkY2Q2Em-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XE9et_yRO4S6TkY2Q2Em-1" target="XE9et_yRO4S6TkY2Q2Em-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="550" y="325" />
@@ -41,13 +23,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XE9et_yRO4S6TkY2Q2Em-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Núcleo F249ZI&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XE9et_yRO4S6TkY2Q2Em-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Núcleo F249ZI&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="250" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="XE9et_yRO4S6TkY2Q2Em-2" value="Sensor Temperatura y Huemdad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XE9et_yRO4S6TkY2Q2Em-2" value="Sensor Temperatura LM35" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XE9et_yRO4S6TkY2Q2Em-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="XE9et_yRO4S6TkY2Q2Em-2" target="XE9et_yRO4S6TkY2Q2Em-1">
+        <mxCell id="XE9et_yRO4S6TkY2Q2Em-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="XE9et_yRO4S6TkY2Q2Em-2" target="XE9et_yRO4S6TkY2Q2Em-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="290" y="180" />
@@ -55,30 +37,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XE9et_yRO4S6TkY2Q2Em-4" value="Sensor de Humedad de Suelo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="XE9et_yRO4S6TkY2Q2Em-4" value="Sensor de Humedad de Suelo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XE9et_yRO4S6TkY2Q2Em-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.01;entryY=0.384;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XE9et_yRO4S6TkY2Q2Em-4" target="XE9et_yRO4S6TkY2Q2Em-1">
+        <mxCell id="XE9et_yRO4S6TkY2Q2Em-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XE9et_yRO4S6TkY2Q2Em-4" target="XE9et_yRO4S6TkY2Q2Em-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="270" y="260" />
-              <mxPoint x="270" y="288" />
+              <mxPoint x="250" y="300" />
+              <mxPoint x="250" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XE9et_yRO4S6TkY2Q2Em-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XE9et_yRO4S6TkY2Q2Em-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="310" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="270" y="340" />
-              <mxPoint x="270" y="310" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XE9et_yRO4S6TkY2Q2Em-6" value="Sensor LDR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XE9et_yRO4S6TkY2Q2Em-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="XE9et_yRO4S6TkY2Q2Em-8" target="XE9et_yRO4S6TkY2Q2Em-1">
+        <mxCell id="XE9et_yRO4S6TkY2Q2Em-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="XE9et_yRO4S6TkY2Q2Em-8" target="XE9et_yRO4S6TkY2Q2Em-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="290" y="430" />
@@ -86,31 +56,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XE9et_yRO4S6TkY2Q2Em-8" value="Sensor de Nivel de Agua" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XE9et_yRO4S6TkY2Q2Em-8" value="Sensor de Nivel de Agua" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XE9et_yRO4S6TkY2Q2Em-10" value="LCD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XE9et_yRO4S6TkY2Q2Em-10" value="LED de Alerta" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XE9et_yRO4S6TkY2Q2Em-11" value="Electroválvula" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XE9et_yRO4S6TkY2Q2Em-12" value="Lámparas LED" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XE9et_yRO4S6TkY2Q2Em-12" value="Electroválvula" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XE9et_yRO4S6TkY2Q2Em-13" value="LED de Alerta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XE9et_yRO4S6TkY2Q2Em-14" value="Buzzer de Alerta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XE9et_yRO4S6TkY2Q2Em-14" value="Buzzer de Alerta" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XE9et_yRO4S6TkY2Q2Em-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;startArrow=classic;startFill=1;" edge="1" parent="1" source="XE9et_yRO4S6TkY2Q2Em-22" target="XE9et_yRO4S6TkY2Q2Em-1">
+        <mxCell id="XE9et_yRO4S6TkY2Q2Em-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;startArrow=classic;startFill=1;" parent="1" source="XE9et_yRO4S6TkY2Q2Em-22" target="XE9et_yRO4S6TkY2Q2Em-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XE9et_yRO4S6TkY2Q2Em-22" value="Computadora" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XE9et_yRO4S6TkY2Q2Em-22" value="Computadora" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XE9et_yRO4S6TkY2Q2Em-24" value="Ethernet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XE9et_yRO4S6TkY2Q2Em-24" value="UART" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="430" y="180" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
