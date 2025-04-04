@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.6">
   <diagram name="Página-1" id="7BJk3fWdT3Sa6y3Y3sVS">
-    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="985" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,37 +27,40 @@
           <mxGeometry x="350" y="250" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="XE9et_yRO4S6TkY2Q2Em-2" value="Sensor Temperatura LM35" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XE9et_yRO4S6TkY2Q2Em-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="XE9et_yRO4S6TkY2Q2Em-2" target="XE9et_yRO4S6TkY2Q2Em-1" edge="1">
+        <mxCell id="XE9et_yRO4S6TkY2Q2Em-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="XE9et_yRO4S6TkY2Q2Em-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="290" y="180" />
-              <mxPoint x="290" y="275" />
+              <mxPoint x="300" y="170" />
+              <mxPoint x="300" y="265" />
             </Array>
+            <mxPoint x="350" y="265" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XE9et_yRO4S6TkY2Q2Em-4" value="Sensor de Humedad de Suelo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XE9et_yRO4S6TkY2Q2Em-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XE9et_yRO4S6TkY2Q2Em-4" target="XE9et_yRO4S6TkY2Q2Em-1" edge="1">
+        <mxCell id="XE9et_yRO4S6TkY2Q2Em-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XE9et_yRO4S6TkY2Q2Em-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="250" y="300" />
-              <mxPoint x="250" y="300" />
+              <mxPoint x="290" y="260" />
+              <mxPoint x="290" y="290" />
             </Array>
+            <mxPoint x="350" y="290.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XE9et_yRO4S6TkY2Q2Em-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="XE9et_yRO4S6TkY2Q2Em-8" target="XE9et_yRO4S6TkY2Q2Em-1" edge="1">
+        <mxCell id="XE9et_yRO4S6TkY2Q2Em-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="XE9et_yRO4S6TkY2Q2Em-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="290" y="430" />
-              <mxPoint x="290" y="325" />
+              <mxPoint x="290" y="350" />
+              <mxPoint x="290" y="315" />
             </Array>
+            <mxPoint x="350" y="315.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XE9et_yRO4S6TkY2Q2Em-8" value="Sensor de Nivel de Agua" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XE9et_yRO4S6TkY2Q2Em-10" value="LED de Alerta" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="270" width="120" height="60" as="geometry" />
@@ -76,6 +79,17 @@
         </mxCell>
         <mxCell id="XE9et_yRO4S6TkY2Q2Em-24" value="UART" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="430" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qb0rsfMamLBD_6naEpur-1" value="Pulsador de apagado de Buzzer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qb0rsfMamLBD_6naEpur-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.001;entryY=0.835;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Qb0rsfMamLBD_6naEpur-1" target="XE9et_yRO4S6TkY2Q2Em-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="440" />
+              <mxPoint x="300" y="333" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
