@@ -33,4 +33,4 @@ Las medición de los sensores, además de utilizarse para corrección de los par
 
 -Pulsador
 
-![Diagrama en bloques del sistema]("Monitoreo Electrónico de Invernadero.png")
+![Diagrama en bloques del sistema]("Diagrama en Bloques TPN1.png")
