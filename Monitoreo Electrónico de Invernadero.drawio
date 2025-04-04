@@ -50,13 +50,13 @@
             <mxPoint x="350" y="290.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XE9et_yRO4S6TkY2Q2Em-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="XE9et_yRO4S6TkY2Q2Em-8" edge="1">
+        <mxCell id="XE9et_yRO4S6TkY2Q2Em-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="XE9et_yRO4S6TkY2Q2Em-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="290" y="350" />
-              <mxPoint x="290" y="315" />
+              <mxPoint x="290" y="310" />
             </Array>
-            <mxPoint x="350" y="315.0000000000001" as="targetPoint" />
+            <mxPoint x="350" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XE9et_yRO4S6TkY2Q2Em-8" value="Sensor de Nivel de Agua" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
